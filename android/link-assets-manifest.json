@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/fonts/Gilroy-Bold.ttf",
+      "sha1": "7fe4d8cf5325dd47363d0f80fefb40ac7df5d5a6"
+    },
+    {
+      "path": "src/fonts/Gilroy-Medium.ttf",
+      "sha1": "d7f893124bd4fff78805e69df31385ae113368be"
+    },
+    {
+      "path": "src/fonts/Gilroy-SemiBold.ttf",
+      "sha1": "8663a356eb9bc23b77696208f74376daf59687ea"
+    },
+    {
+      "path": "src/fonts/Poppins-Black.ttf",
+      "sha1": "048555c4d0c3a6022b480be4596b1c95d605d32b"
+    },
+    {
+      "path": "src/fonts/Poppins-Bold.ttf",
+      "sha1": "b9b65c039a1f10a5cb5e0726c6e7e18e98a8e517"
+    },
+    {
+      "path": "src/fonts/Poppins-Medium.ttf",
+      "sha1": "af7058373acbcf383dd114b8f9bbfb9faafd79eb"
+    },
+    {
+      "path": "src/fonts/Poppins-Regular.ttf",
+      "sha1": "01d319c533f62ea29f03b5df8adfd4d93d2d2a38"
+    },
+    {
+      "path": "src/fonts/Poppins-SemiBold.ttf",
+      "sha1": "20b39c8b480c946b084d6aa09f12bf10b2ec5aa6"
+    },
+    {
+      "path": "src/fonts/SFProDisplay-Bold.otf",
+      "sha1": "100e7b7fd24facbca4db38e6d4d7e01c73b82818"
+    },
+    {
+      "path": "src/fonts/SFProDisplay-Heavy.otf",
+      "sha1": "8580b5917b1bc793a3faf45e3c91d24d854de759"
+    },
+    {
+      "path": "src/fonts/SFProDisplay-Medium.otf",
+      "sha1": "a5f5e08dd38cac2f857fb7510f7e92a2399b6f5c"
+    },
+    {
+      "path": "src/fonts/SFProDisplay-Regular.otf",
+      "sha1": "e19df199e78d296e5b6491d4832a76756532ed43"
+    },
+    {
+      "path": "src/fonts/SFProDisplay-Semibold.otf",
+      "sha1": "1919ecaa21bd612d41f8eeef6ccec2f28ad029f6"
+    },
+    {
+      "path": "src/fonts/SFProRounded-Bold.otf",
+      "sha1": "86e1c79d7484a965cf5b42fc2ebc3f27d2a56472"
+    },
+    {
+      "path": "src/fonts/SFProRounded-Heavy.otf",
+      "sha1": "4a2eca86062a15d0895c63ed16d55cfaf7b06ccc"
+    },
+    {
+      "path": "src/fonts/SFProRounded-Medium.otf",
+      "sha1": "76afe0c278fe89adeaf206721a66f9eaaa34a3eb"
+    },
+    {
+      "path": "src/fonts/SFProRounded-Regular.otf",
+      "sha1": "bf7a96a41854512cd8dae6b90fc766c40f509924"
+    },
+    {
+      "path": "src/fonts/SFProRounded-Semibold.otf",
+      "sha1": "073782a3b6faacfceb7004ff605707dc6659a282"
+    }
+  ]
+}
